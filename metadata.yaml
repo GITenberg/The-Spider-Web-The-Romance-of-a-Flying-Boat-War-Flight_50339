@@ -1,10 +1,16 @@
 _repo: The-Spider-Web-The-Romance-of-a-Flying-Boat-War-Flight_50339
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50339-h/images/cover.jpg
 creator:
   author:
     agent_name: Hallam, T. D.
     gutenberg_agent_id: '45823'
     url: http://www.gutenberg.org/2009/agents/45823
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50339#The-Spider-Web-The-Romance-of-a-Flying-Boat-War-Flight
 gutenberg_issued: '2015-10-30'
 gutenberg_type: Text
 identifiers:
